@@ -1,5 +1,5 @@
 # MESA
-MESA - Modules for Experiments in Stellar Astrophysics
+## MESA - Modules for Experiments in Stellar Astrophysics
 
 
 This repository contains teaching examples and scripts using MESA. 

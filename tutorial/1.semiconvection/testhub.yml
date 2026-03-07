@@ -1,0 +1,27 @@
+    - inlist: inlist_semiconvection_header
+      runtime_minutes:  81.75
+      model_number:          293
+      star_age:     1.3650218291656713E+09
+      num_retries:            0
+      log_rel_run_E_err:        -9.7171552471214078
+      steps:          293
+      retries:            0
+      redos:            0
+      solver_calls_made:          293
+      solver_calls_failed:            0
+      solver_iterations:         2094
+    - inlist: inlist_semiconvection_header
+    - inlist: inlist_semiconvection_header
+    - inlist: inlist_semiconvection_header
+    - inlist: inlist_semiconvection_header
+      runtime_minutes:  80.17
+      model_number:          293
+      star_age:     1.3625218291656713E+09
+      num_retries:            0
+      log_rel_run_E_err:        -9.7162947046178818
+      steps:          294
+      retries:            0
+      redos:            0
+      solver_calls_made:          294
+      solver_calls_failed:            0
+      solver_iterations:         2103

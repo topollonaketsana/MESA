@@ -1,6 +1,13 @@
 
 
 .DS_Store
-./tex
+tex/*.aux
+tex/*.log
+tex/*.nav
+tex/*.out
+tex/*.snm
+tex/*.synctex.gz
+tex/*.toc
+tex/*.pdf
 
 
